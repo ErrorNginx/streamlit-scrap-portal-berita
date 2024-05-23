@@ -10,6 +10,7 @@ from utils.scraper_antaranews_jabar import scrape_antaranews_jabar
 st.set_page_config(page_title="Aplikasi Scrap Portal Berita", page_icon=":berita:", layout="wide")
 
 st.title("📰 Aplikasi Scrap Portal Berita")
+st.caption('Selamat datang di Aplikasi sracape Berita! Aplikasi ini memungkinkan Anda untuk mengumpulkan artikel berita dari berbagai portal berita Indonesia dan menampilkan kata-kata yang paling sering muncul digunakan dalam artikel tersebut. Aplikasi ini dibangun menggunakan Streamlit untuk UI dan BeautifulSoup untuk web scraping.')
 
 # Sidebar menu
 st.sidebar.header("Scraping Portal Berita")
