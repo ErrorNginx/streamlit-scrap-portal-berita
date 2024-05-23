@@ -14,11 +14,8 @@ Selamat datang di Aplikasi sracape Berita! Aplikasi ini memungkinkan Anda untuk 
 ## Portal Berita
 
 1. **Pikiran Rakyat**
-   ![Pikiran Rakyat](https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo_Pikiran_Rakyat.png)
 2. **Bandung Bisnis**
-   ![Bandung Bisnis](https://upload.wikimedia.org/wikipedia/commons/8/8e/Logo_Bisnis_Indonesia.svg)
 3. **Antaranews Jabar**
-   ![Antaranews Jabar](https://upload.wikimedia.org/wikipedia/commons/4/49/Antara_News_logo.png)
 
 ## Instalasi
 
@@ -46,6 +43,7 @@ news-scraper-app/
 │
 ├── app.py
 ├── requirements.txt
+├── README.md
 ├── utils/
 │ ├── common/
 │ │ ├── init.py
