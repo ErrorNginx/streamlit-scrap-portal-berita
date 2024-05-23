@@ -2,7 +2,6 @@
 
 Selamat datang di Aplikasi sracape Berita! Aplikasi ini memungkinkan Anda untuk mengumpulkan artikel berita dari berbagai portal berita Indonesia dan menampilkan kata-kata yang paling sering muncul digunakan dalam artikel tersebut. Aplikasi ini dibangun menggunakan Streamlit untuk UI dan BeautifulSoup untuk web scraping.
 
-![Aplikasi Pencari Berita](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Streamlit_logo.svg/1200px-Streamlit_logo.svg.png)
 
 ## Fitur
 
