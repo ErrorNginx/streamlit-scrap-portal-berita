@@ -54,7 +54,7 @@ news-scraper-app/
 ```
 
 
-## Penggunaan
+## Flow aplikasi
 
 1. **Pilih Portal Berita**: Gunakan sidebar untuk memilih portal berita yang ingin Anda ambil.
 2. **Ambil Berita**: Klik tombol untuk mulai mengambil artikel berita terbaru.
@@ -65,7 +65,7 @@ news-scraper-app/
 
 Kontribusi sangat diterima! Silakan buka issue atau kirim pull request untuk fitur atau perbaikan bug.
 
-## Penghargaan
+## Tech
 
 - [Streamlit](https://streamlit.io/)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
